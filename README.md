@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilmahajn&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmahajn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilmahajn" alt="nikhilmahajn" /></a> </p>
-
 - 🌱 I’m currently learning **Tensorflow , Pytourch , Scikit learn , Django , Flask**
 
 - 👯 I’m looking to collaborate on **Open source project**
