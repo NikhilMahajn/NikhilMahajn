@@ -2,7 +2,6 @@
 <h3 align="center">I’m passionate about solving real-world problems using the power of AI and machine learning. With a strong foundation in ML and deep learning, I focus on building models that not only perform well but also make a real difference.I utilize tensorflow, scikit-learn for ML,and Frameworks like Flask and Streamlit For backend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilmahajn&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilmahajn" /> </p>
-
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
