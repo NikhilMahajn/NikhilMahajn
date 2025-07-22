@@ -153,36 +153,6 @@ print("Full Stack Developer who brings AI to life in web applications! 🌟")
 
 ---
 
-## 💼 Development Stack & Approach
-
-<div align="center">
-
-```mermaid
-graph TB
-    A[Client Requirements] --> B[Frontend Design]
-    B --> C[Backend Architecture]
-    C --> D[Database Design]
-    D --> E[API Development]
-    E --> F[AI/ML Integration]
-    F --> G[Testing & Optimization]
-    G --> H[Deployment & DevOps]
-    H --> I[Monitoring & Scaling]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#ffeaa7
-    style F fill:#dda0dd
-    style G fill:#98d8c8
-    style H fill:#a29bfe
-    style I fill:#fd79a8
-```
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
