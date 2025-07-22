@@ -30,7 +30,7 @@
 
 - 👯 I’m looking to collaborate on **Open source project**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-inr9.onrender.com/](https://personal-portfolio-inr9.onrender.com/)
+- 👨‍💻 All of my projects are available [here](https://nikhil-portfolio-oxa6.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@mahajannikhil0016](https://medium.com/@mahajannikhil0016)
 
