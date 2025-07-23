@@ -61,6 +61,38 @@ print("Full Stack Developer who brings AI to life in web applications! 🌟")
 
 ---
 
+## 🚀 Featured Projects & Expertise
+
+<div align="center">
+
+### 🌟 Web Development
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Projects-blue?style=for-the-badge&logo=vercel)](https://nikhil-portfolio-oxa6.vercel.app/)
+[![Web Apps](https://img.shields.io/badge/💻_Web_Apps-Django_Flask-green?style=for-the-badge&logo=python)](https://nikhil-portfolio-oxa6.vercel.app/)
+
+### 🤖 AI Integration
+[![ML Models](https://img.shields.io/badge/🧠_AI_Models-Production_Ready-orange?style=for-the-badge&logo=tensorflow)](https://nikhil-portfolio-oxa6.vercel.app/)
+[![Data Science](https://img.shields.io/badge/📊_Analytics-Smart_Solutions-purple?style=for-the-badge&logo=python)](https://nikhil-portfolio-oxa6.vercel.app/)
+
+### 📝 Knowledge Sharing
+[![Medium](https://img.shields.io/badge/📝_Blog-Tech_Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@mahajannikhil0016)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhil-portfolio-oxa6.vercel.app/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mahajannikhil0016)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nikkhilmahajannnn)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/nikhil0069)
+
+</div>
+
+---
+
 ## 🛠️ Full Stack Arsenal
 
 <div align="center">
@@ -138,37 +170,7 @@ print("Full Stack Developer who brings AI to life in web applications! 🌟")
   <img src="https://activity-graph.herokuapp.com/graph?username=NikhilMahajn&theme=radical&hide_border=true" />
 </div>
 
----
 
-## 🚀 Featured Projects & Expertise
-
-<div align="center">
-
-### 🌟 Web Development
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Projects-blue?style=for-the-badge&logo=vercel)](https://nikhil-portfolio-oxa6.vercel.app/)
-[![Web Apps](https://img.shields.io/badge/💻_Web_Apps-Django_Flask-green?style=for-the-badge&logo=python)](https://nikhil-portfolio-oxa6.vercel.app/)
-
-### 🤖 AI Integration
-[![ML Models](https://img.shields.io/badge/🧠_AI_Models-Production_Ready-orange?style=for-the-badge&logo=tensorflow)](https://nikhil-portfolio-oxa6.vercel.app/)
-[![Data Science](https://img.shields.io/badge/📊_Analytics-Smart_Solutions-purple?style=for-the-badge&logo=python)](https://nikhil-portfolio-oxa6.vercel.app/)
-
-### 📝 Knowledge Sharing
-[![Medium](https://img.shields.io/badge/📝_Blog-Tech_Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@mahajannikhil0016)
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhil-portfolio-oxa6.vercel.app/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mahajannikhil0016)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nikkhilmahajannnn)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/nikhil0069)
-
-</div>
 
 ---
 
