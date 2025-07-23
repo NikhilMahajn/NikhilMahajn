@@ -112,12 +112,12 @@ print("Full Stack Developer who brings AI to life in web applications! 🌟")
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilmahajn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmahajn&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikhilMahajn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMahajn&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilmahajn&theme=radical" alt="nikhilmahajn" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikhilmahajn&theme=radical" alt="NikhilMahajn" />
 </div>
 
 ---
@@ -125,11 +125,11 @@ print("Full Stack Developer who brings AI to life in web applications! 🌟")
 ## 🏆 Development Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilmahajn&theme=radical&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NikhilMahajn&theme=radical&column=7&margin-w=10&margin-h=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilmahajn&theme=redical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilMahajn&theme=redical&hide_border=true" />
 </div>
 
 ---
@@ -196,7 +196,7 @@ print("Full Stack Developer who brings AI to life in web applications! 🌟")
 <div align="center">
   
 ### 📊 Profile Views
-![](https://komarev.com/ghpvc/?username=nikhilmahajn&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=NikhilMahajn&color=blueviolet&style=for-the-badge)
 
 ### 💫 "Building the future, one full-stack application at a time"
 
