@@ -129,7 +129,7 @@ print("Full Stack Developer who brings AI to life in web applications! 🌟")
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilMahajn&theme=redical&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=NikhilMahajn&theme=radical&hide_border=true" />
 </div>
 
 ---
