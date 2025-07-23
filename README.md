@@ -117,7 +117,7 @@ print("Full Stack Developer who brings AI to life in web applications! 🌟")
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikhilmahajn&theme=radical" alt="NikhilMahajn" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMahajn&theme=radical" alt="NikhilMahajn" />
 </div>
 
 ---
